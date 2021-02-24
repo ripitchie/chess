@@ -1,0 +1,6 @@
+obj/
+.git/
+class_diagram.mdj
+doc/html/
+src/*.old
+
